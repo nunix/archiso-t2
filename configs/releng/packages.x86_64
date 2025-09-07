@@ -1,5 +1,7 @@
 alsa-utils
 amd-ucode
+apple-t2-audio-config
+apple-bcm-firmware
 arch-install-scripts
 archinstall
 b43-fwcutter
@@ -50,6 +52,7 @@ lftp
 libfido2
 libusb-compat
 linux
+linux-t2
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -105,9 +108,11 @@ squashfs-tools
 sudo
 syslinux
 systemd-resolvconf
+t2fanrd
 tcpdump
 terminus-font
 testdisk
+tiny-dfr
 tmux
 tpm2-tools
 tpm2-tss
