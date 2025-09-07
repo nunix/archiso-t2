@@ -1,7 +1,10 @@
+apple-t2-audio-config
+apple-bcm-firmware
 base
 cloud-init
 hyperv
 linux
+linux-t2
 mkinitcpio
 mkinitcpio-archiso
 open-vm-tools
@@ -9,4 +12,6 @@ openssh
 pv
 qemu-guest-agent
 syslinux
+t2fanrd
+tiny-dfr
 virtualbox-guest-utils-nox
