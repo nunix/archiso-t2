@@ -3,6 +3,7 @@ apple-bcm-firmware
 base
 cloud-init
 hyperv
+linux
 linux-t2
 linux-firmware
 mkinitcpio
